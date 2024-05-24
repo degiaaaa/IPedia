@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="60" viewBox="0 0 116 60">
+  <g id="Logo" transform="translate(-732 -609)">
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="18" cy="18" r="18" transform="translate(736 633)" fill="#c4c4c4"/>
+    <text id="iPedia." transform="translate(778 660)" fill="#c4c4c4" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">iPedia</tspan><tspan y="0" fill="#ff5d5d">.</tspan></text>
+    <path id="Pfad_1" data-name="Pfad 1" d="M426,718.889s.438-12.213,8.133-19.03" transform="translate(330.085 -85.388)" fill="none" stroke="#c4c4c4" stroke-width="1.5"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="10.5" cy="10.5" r="10.5" transform="translate(732 635.684)" fill="#9f9f9f"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="7" cy="7" r="7" transform="translate(761 645.8)" fill="#9f9f9f"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="8.5" cy="8.5" r="8.5" transform="translate(734 637.674)" fill="#fff"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="6" cy="6" r="6" transform="translate(762 646.755)" fill="#fff"/>
+    <path id="Differenzmenge_1" data-name="Differenzmenge 1" d="M7.89,6H6.109A6.076,6.076,0,0,1,1.825,4.246,6.074,6.074,0,0,1,0,0H14a6.074,6.074,0,0,1-1.826,4.246A6.076,6.076,0,0,1,7.89,6Z" transform="translate(747 657)" fill="#9f9f9f"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="4.5" cy="4.5" r="4.5" transform="translate(761 609)" fill="#ff5d5d"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="5.5" cy="5.5" r="5.5" transform="translate(737 640.653)" fill="#167eb7"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="3" cy="3" r="3" transform="translate(765 649.755)" fill="#167eb7"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="1.5" cy="1.5" r="1.5" transform="translate(768 648.696)" fill="#fff"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="2.5" cy="2.5" r="2.5" transform="translate(743 639.574)" fill="#fff"/>
+  </g>
+</svg>

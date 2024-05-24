@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="666" height="377" viewBox="0 0 666 377">
+  <g id="Gruppe_429" data-name="Gruppe 429" transform="translate(-663 -345)">
+    <ellipse id="Ellipse_43" data-name="Ellipse 43" cx="177.5" cy="14" rx="177.5" ry="14" transform="translate(782.5 617.528)" fill="#c4c4c4" opacity="0.37"/>
+    <image id="Bild_9" data-name="Bild 9" width="11" height="8" transform="translate(1051.5 583.528)" xlink:href="Gruppe%20429-image.png"/>
+    <g id="Logo" transform="translate(931.793 359.528)" style="isolation: isolate">
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="81.674" cy="81.674" r="81.674" transform="translate(17.976 108.639)" fill="#c4c4c4"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="47.601" cy="47.601" r="47.601" transform="translate(0 120.97)" fill="#9f9f9f"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="31.734" cy="31.734" r="31.734" transform="translate(131.468 166.829)" fill="#9f9f9f"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="38.534" cy="38.534" r="38.534" transform="translate(9.067 129.992)" fill="#fff"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="27.2" cy="27.2" r="27.2" transform="translate(136.002 171.159)" fill="#fff"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="24.934" cy="24.934" r="24.934" transform="translate(22.667 143.496)" fill="#167eb7"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="13.6" cy="13.6" r="13.6" transform="translate(149.602 184.757)" fill="#167eb7"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="6.8" cy="6.8" r="6.8" transform="translate(163.202 179.959)" fill="#fff"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="11.333" cy="11.333" r="11.333" transform="translate(49.867 138.604)" fill="#fff"/>
+      <path id="Pfad_1" data-name="Pfad 1" d="M462.655,735.111s30.083-118.61,51.272-7.622" transform="translate(-353.467 -605.118)" fill="none" stroke="#c4c4c4" stroke-width="4"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="20.321" cy="20.321" r="20.321" transform="translate(141.161 109.671)" fill="#ff5d5d"/>
+    </g>
+    <path id="Differenzmenge_4" data-name="Differenzmenge 4" d="M6961,1523a37.3,37.3,0,0,0-11.725,1.866,34.7,34.7,0,0,0-9.928,5.149,31.163,31.163,0,0,0-7.376,7.759,27.689,27.689,0,0,0-4.064,9.7h66.186a27.7,27.7,0,0,0-4.064-9.7,31.177,31.177,0,0,0-7.375-7.759,34.709,34.709,0,0,0-9.929-5.149A37.3,37.3,0,0,0,6961,1523Z" transform="translate(-5931.593 -947.708)" fill="#9f9f9f"/>
+    <path id="Pfad_2005" data-name="Pfad 2005" d="M484.952,651.444H564.86a4.477,4.477,0,0,0,3.918-6.6l-39.935-74.2a4.472,4.472,0,0,0-7.876,0l-39.954,74.2a4.477,4.477,0,0,0,3.938,6.6Zm45.039-13.558H519.822V627.723H529.99Zm0-16.943H519.822V600.611H529.99Z" transform="translate(362.48 -22.342)" fill="#ff5d5d"/>
+    <text id="_Text_Subtitle_1_Selected_On_Surface_Medium_Emphasis_Left_" data-name="✱ / Text / Subtitle 1 / Selected / On Surface / Medium Emphasis / Left " transform="translate(996 692)" fill="rgba(0,0,0,0.6)" font-size="21" font-family="Roboto-Regular, Roboto" letter-spacing="0.01em"><tspan x="-332.975" y="0">Leider konnten wir zu diesen Sucheinstellungen keine Beiträge finden. </tspan><tspan x="-211.861" y="25">Probiere es einfach mit einem anderen Filter.</tspan></text>
+    <text id="_Text_Subtitle_1_Selected_On_Surface_Medium_Emphasis_Left_2" data-name="✱ / Text / Subtitle 1 / Selected / On Surface / Medium Emphasis / Left " transform="translate(960 412)" fill="rgba(0,0,0,0.6)" font-size="71" font-family="Roboto-Regular, Roboto" letter-spacing="0.01em"><tspan x="-93.372" y="0">Oops!</tspan></text>
+  </g>
+</svg>

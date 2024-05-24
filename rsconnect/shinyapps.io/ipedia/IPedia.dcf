@@ -1,0 +1,12 @@
+name: IPedia
+title: IPedia
+username:
+account: ipedia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3051004
+bundleId: 4154735
+url: https://ipedia.shinyapps.io/IPedia/
+when: 1611859440.57056
+asMultiple: FALSE
+asStatic: FALSE
